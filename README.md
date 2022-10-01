@@ -1,5 +1,6 @@
 # The course on text processing (NLP)
 Task 1 (go to Muginova_Olesya_NLP1 file):
+
 There are following tasks that have been done:
 
 1. Data preprocessing using regular expressions leaving abstracts only
@@ -10,6 +11,7 @@ There are following tasks that have been done:
 6. Comparison of the results
 
 Task 2 (go to Muginova_Olesya_NLP2 file):
+
 There are following tasks that have been done:
 
 1. Download no less that 300 pages from zpp.rospotrebnadzor.ru
@@ -17,7 +19,9 @@ There are following tasks that have been done:
 3. Topic modeling using LSI model
 4. Random Forest
 
-Task 3 (go to Muginova_Olesya_NLP3 file): There are following tasks that have been done:
+Task 3 (go to Muginova_Olesya_NLP3 file): 
+
+There are following tasks that have been done:
 
 1. We use data from the Task 2
 2. Vectorization with tf-idf
@@ -33,4 +37,6 @@ FINAL PROJECT (has been created in the group of 2 people) (go to Chatbot -- Weat
 * understand such dates as now, today, tomorrow
 * respond to unclear commands
 * be precise and ask for necessary info if the user doesn't tell it full information
+
+
 The weather is imported using API OpenWeatherMap (https://openweathermap.org/)

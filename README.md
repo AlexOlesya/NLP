@@ -1,5 +1,6 @@
 # The course on text processing (NLP)
-Task 1 (go to Muginova_Olesya_NLP1 file):
+**Task 1 (go to Muginova_Olesya_NLP1 file):**  
+
 There are following tasks that have been done:
 
 1. Data preprocessing using regular expressions leaving abstracts only
@@ -9,7 +10,8 @@ There are following tasks that have been done:
 5. Topics' visualization
 6. Comparison of the results
 
-Task 2 (go to Muginova_Olesya_NLP2 file):
+**Task 2 (go to Muginova_Olesya_NLP2 file):**  
+
 There are following tasks that have been done:
 
 1. Download no less that 300 pages from zpp.rospotrebnadzor.ru
@@ -17,7 +19,8 @@ There are following tasks that have been done:
 3. Topic modeling using LSI model
 4. Random Forest
 
-Task 3 (go to Muginova_Olesya_NLP3 file): 
+**Task 3 (go to Muginova_Olesya_NLP3 file):**  
+
 There are following tasks that have been done:
 
 1. We use data from the Task 2
@@ -26,7 +29,7 @@ There are following tasks that have been done:
 4. Random Forest
 5. Compare the quality and answer the question "How do different vectorisation methods influence on model's quality?"
 
-FINAL PROJECT (has been created in the group of 2 people) (go to Chatbot -- Weather by Polesya file):
+**FINAL PROJECT (has been created in the group of 2 people) (go to Chatbot -- Weather by Polesya file):**
 
 1. Create the chatbot which tells users the weather in two cities (Saint Petersburg, Moscow)
 2. The chatbot can:
@@ -34,4 +37,4 @@ FINAL PROJECT (has been created in the group of 2 people) (go to Chatbot -- Weat
 * understand such dates as now, today, tomorrow
 * respond to unclear commands
 * be precise and ask for necessary info if the user doesn't tell it full information
-3. The weather is imported using API OpenWeatherMap (https://openweathermap.org/)
+3. The weather is imported using API [OpenWeatherMap] (https://openweathermap.org/)

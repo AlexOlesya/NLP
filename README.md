@@ -37,4 +37,4 @@ There are following tasks that have been done:
 * understand such dates as now, today, tomorrow
 * respond to unclear commands
 * be precise and ask for necessary info if the user doesn't tell it full information
-3. The weather is imported using API [OpenWeatherMap] (https://openweathermap.org/)
+3. The weather is imported using API [OpenWeatherMap](https://openweathermap.org/)
